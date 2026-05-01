@@ -1,0 +1,4 @@
+from datetime import date
+a=date(2006,1,19)
+b=date(2026,5,1)
+print("no of days mithra lived:",b-a)
